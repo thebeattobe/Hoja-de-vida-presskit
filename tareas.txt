@@ -1,5 +1,4 @@
 tareas
 
 Añadir fotos
-foto clickeable a pagina web
 facebook iframe
