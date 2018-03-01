@@ -1,4 +1,4 @@
 tareas
 
-agregar educacion y experiencia en una tabla
-contrataciones y un cuadro donde se pueda escribir para contactarme 
+
+contrataciones y un cuadro donde se pueda escribir para contactarme
